@@ -1,0 +1,2 @@
+# SYM
+An angular app
